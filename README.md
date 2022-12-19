@@ -1,4 +1,4 @@
-# MedChain
+# MedicoChain
 Blockchain based medical reports monitoring system (EHR)
 * Implementation of the blockchain network where each node comprises the medical reports of the patient. The blockchain
 network is to be implemented along with cryptographic hash.
@@ -10,3 +10,13 @@ access the records and carry out medical diagnosis.
 friendly and various operations can be carried out without any hassle.
 * Link creation and transmission for secure and timely access of the reports. A link is to be created and secure transmission is to
 be carried out and timely access must also be imposed.
+
+Technology Stack:
+
+* Truffle
+* Ganache
+* Metamask
+* IPFS
+* React
+* PHP Mailer for mailing and SMS
+
